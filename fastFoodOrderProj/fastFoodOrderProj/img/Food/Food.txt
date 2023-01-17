@@ -1,0 +1,106 @@
+
+
+
+Additems("Apple Berry", 2.8, "10-minute-apple-berry-crumble.jpeg");
+Additems("Almond Cake", 2.8, "almond-and-date-cake.jpeg");
+Additems("Strawberry Roulade", 2.8, "almond-strawberry-roulade.jpeg");
+Additems("Amaretto Tart", 2.8, "amaretto-tart.jpeg");
+Additems("Angel Cake", 2.8, "angel-food-cake.jpg");
+Additems("Aniseed Chocolate", 2.8, "aniseed-and-chocolate-parfait.jpeg");
+Additems("Apple Torte", 2.8, "apple-and-almond-torte.jpeg");
+Additems("Apple Butterscotch", 2.8, "apple-and-butterscotch.jpeg");
+Additems("Cinnamon Custard", 2.8, "apple-cinnamon-custard.jpeg");
+Additems("Baked lemon Meringue ", 2.8, "baked-lemon-meringue-pie.jpeg");
+Additems("Forest Trifles", 2.8, "black-forest-trifles.jpeg");
+Additems("Chocolate Bullets", 2.8, "chocolate-bullets.jpeg");
+Additems("Maltesers Tiramisu", 2.8, "maltesers-tiramisu.jpeg");
+Additems("Mocha-Log", 2.8, "mocha-log.jpeg");
+Additems("Napoleon", 2.8, "napoleon.jpeg");
+Additems("Fried Ice Cream", 2.8, "not-so-fried-ice-cream.jpeg");
+Additems("Roasted Strawberry", 2.8, "roasted-strawberry-crumble.jpeg");
+Additems("snickers Rolls", 2.8, "snickers-rolls.jpeg");
+Additems("Sticky Pudding", 2.8, "sticky-date-pudding.jpeg");
+
+
+Additems("Affogato", 2.8, "Affogato.jpg");
+Additems("DordaCafe Cocktail", 2.0, "DordaCafe-Cocktail.jpg");
+Additems("Dunkin Frozen Coff", 0.8, "dunkin-frozen-coffee.jpg");
+Additems("Dunkin Dced Coffee", 2.8, "dunkin-iced-coffee.jpg");
+Additems("Frozen Mochakir", 1.0, "Frozen_Mocha_kirspy-kreme.jpg");
+Additems("Iced Coffee", 2.8, "glass-of-iced-coffee.jpg");
+Additems("Moneygun Hot Toddy", 2.8, "moneygun-hot-toddy.jpg");
+Additems("Panera IcedCaffe", 2.8, "panera-iced-caffe-latte.jpg");
+Additems("Vanilla Iced");", 2.8, "peets-vanilla-iced-latte.jpg");
+Additems("PUMPKIN SPICELATTE", 2.8, "PUMPKIN-SPICE-LATTE-1-of-10.jpg"); 
+Additems("Sonic Brew", 2.8, "sonic-original-cold-brew.jpg");
+Additems("Vanilla Frappuccino", 2.8, "Starbucks-Caffe-Vanilla-Frappuccino.jpg");
+Additems("Coffee Frappuccino", 2.8, "starbucks-coffee-frappuccino.jpg");
+Additems("Cafe Latte", 2.8, "starbucks-iced-cafe-latte.jpg");
+Additems("Hot Chocolate", 2.8, "tahini-hot-chocolate.jpg");
+Additems("Iced-Mocha", 2.8, "tim-hortons-iced-mocha-latte.jpg");
+Additems("VanillaLatte", 2.8, "VanillaLatte.jpg");
+
+Additems("Bradscleansing Tea", 1.0, "brads-cleansing-tea.jpg");
+Additems("Coffee Old Fashioned", 2.4, "CoffeeOldFashioned.jpg");
+Additems("Hot Chocolate", 0.8, "Hot-Chocolate-1-of-5.jpg");
+Additems("Hot Chocolate", 1.0, "Hot-Chocolate-2-of-5.jpg");
+Additems("White Hot Chocolate.jpeg", 2.8, "hot-chocolate.jpeg");
+Additems("Hot Penicillin", 1.0, "hot-penicillin.jpg");
+Additems("Hot Turmeric", 2.3, "hot-turmeric-latte.jpg");
+Additems("Irishcoffee Backbar", 0.8, "irishcoffee_backbar.jpg");
+Additems("Irishcoffee Drinkwell", 6.8, "irishcoffee_drinkwell.jpg");
+Additems("Irishcoffee VCC", 4.8, "irishcoffee_VCC.jpg");
+Additems("Japanese Coffee Jelly", 1.8, "Japanese-Coffee-Jelly.jpg");
+Additems("La-Vida Mocha", 3.0, "la-vida-mocha.jpg");
+Additems("Honey hotChocolate", 2.8, "loaded-honey-hot-chocolate.jpg");
+Additems("Matcha Latte", 2, "matcha-latte.jpg");
+Additems("Mcdonalds Caramel", 2.8, "mcdonalds-iced-caramel-latte.jpg");
+Additems("Peppermint Chocolate", 1.0, "peppermint-hot-chocolate.jpeg");
+Additems("Choc Chocolate", 5.8, "white-choc-hot-chocolate.jpg");
+Additems("", 2.8, "");
+Additems("", 2.8, "");
+Additems("", 2.8, "");
+Additems("", 2.8, "");
+Additems("", 2.8, "");
+Additems("", 2.8, "");
+Additems("", 2.8, "");
+Additems("", 2.8, "");
+Additems("", 2.8, "");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additems("checkers Fries", 2.8, "checkers-seasoned-fries.jpg");
+Additems("Annes Pretzel", 3.4, "auntie-annes-pretzel.jpg");
+Additems("CheeseBurger", 3.2, "cheeseburger.jpg");
+Additems("dog haus mex", 5.8, "dog-haus-t-mex.jpg");
+Additems("Boston Chicken", 5.0, "boston-market-rotisserie-chicken-steamed-veggies-lead.jpg");
+Additems("Chicken Sandwich", 4.0, "chickensandwich.jpg");
+Additems("Jack Tacos ", 5.0, "jack-in-the-box-tacos.jpg");
+Additems("Meat Pizza", 7.0, "little-caesars-deep-deep-dish-3-meat-treat-pizza.jpg");
+Additems("mashburger", 5.0, "mashburger.jpg");
+Additems("Noodles Rosa", 1.0, "noodles-world-kitchen-penne-rosa.jpg");
+Additems("Protein bowl", 5.0, "original-chop-shop-protein-bowl.jpg");
+Additems("Panda Chicken", 5.0, "panda-express-kung-pao-chicken.jpg");
+Additems("Kung Chicken", 5.0, "panda-express-orange-chicken.jpg");
+Additems("Pepperoni Pizza", 5.0, "pepperonipizza.jpg");
+Additems("Pizza Twitter", 7.0, "pizza-hut-meat-lovers-pizza-twitter.jpg");
+Additems("Pizza Hut", 5.0, "pizza-hut-pepperoni-lovers-large-original-pan.jpg");
+Additems("Wreck Sandwich", 5.0, "potbelly-the-wreck-sandwich.jpg");
+Additems("Subsham", 1.5, "subsham.jpg");
+Additems("SubwayTurkey", 5.9, "subwayturkeysub.jpg");
+Additems("Taco Bell", 2.0, "taco-bell-crunchy-taco-best.jpg");
+Additems("Whata Burger", 5.0, "whataburger-burger.jpg");
+Additems("Poke Nachos", 3.5, "yard-house-poke-nachos.jpg");
+Additems("Zaxbys Chicken", 1.5, "zaxbys-chicken-finger-plate-buffalo.jpg");

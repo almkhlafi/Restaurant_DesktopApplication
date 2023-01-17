@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <OrderInfo>
+    <Item>Cinnamon Custard</Item>
+    <Price>$2.8</Price>
+    <No>1</No>
+  </OrderInfo>
+  <OrderInfo>
+    <Item>Strawberry Roulade</Item>
+    <Price>$2.8</Price>
+    <No>1</No>
+  </OrderInfo>
+  <OrderInfo>
+    <Item>Almond Cake</Item>
+    <Price>$2.8</Price>
+    <No>5</No>
+  </OrderInfo>
+  <OrderInfo>
+    <Item>Almond Cake</Item>
+    <Price>$2.8</Price>
+    <No>5</No>
+  </OrderInfo>
+</NewDataSet>
